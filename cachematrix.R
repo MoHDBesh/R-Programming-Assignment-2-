@@ -1,8 +1,8 @@
 ## Put comments here that give an overall description of what your
 ## functions do
 
-## Write a short comment describing this function
-
+##this function will take advantage of the scoping rules of the R language 
+## by give the mean  without needing to calculate it of we already calculate it  
 makeCacheMatrix <- function(x = matrix()) {
         m <- NUL
         set <- function(y) {
@@ -19,8 +19,9 @@ makeCacheMatrix <- function(x = matrix()) {
 
 }
 
+##this function will take advantage of the scoping rules of the R language 
+## by give the inverse without needing to calculate it of we already calculate it  
 
-## Write a short comment describing this function
 
 cacheSolve <- function(x, ...) {
         ## Return a matrix that is the inverse of 'x'
