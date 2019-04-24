@@ -1,5 +1,3 @@
-## Put comments here that give an overall description of what your
-## functions do
 
 ##this function will take advantage of the scoping rules of the R language 
 ## by give the mean  without needing to calculate it of we already calculate it  
